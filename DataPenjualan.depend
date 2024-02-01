@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1703344350 source:d:\tugas\kuliah\semester-3\struktur-data\!tubes\datapenjualan\main.cpp
+	"utils.cpp"
+
+1702137661 d:\tugas\kuliah\semester-3\struktur-data\!tubes\datapenjualan\subprogram.cpp
+	"Header.h"
+
+1703344216 d:\tugas\kuliah\semester-3\struktur-data\!tubes\datapenjualan\header.h
+	<iostream>
+
+1703389787 d:\tugas\kuliah\semester-3\struktur-data\!tubes\datapenjualan\utils.cpp
+	"Header.h"
+	"progToko.cpp"
+	"progBarang.cpp"
+	"progChild.cpp"
+	"windows.h"
+
+1704277153 d:\tugas\kuliah\semester-3\struktur-data\!tubes\datapenjualan\progtoko.cpp
+	"Header.h"
+
+1703389105 d:\tugas\kuliah\semester-3\struktur-data\!tubes\datapenjualan\progbarang.cpp
+	"Header.h"
+
+1704273204 d:\tugas\kuliah\semester-3\struktur-data\!tubes\datapenjualan\progchild.cpp
+	"Header.h"
+
